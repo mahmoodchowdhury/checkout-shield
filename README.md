@@ -1,4 +1,7 @@
-**Overview**  
+# **Checkout Shield**
+
+## **Overview**
+
 Checkout Shield is an open source WordPress plugin designed to enhance your WooCommerce store by preventing orders from being placed using specific email addresses. Whether you're dealing with spam or unwanted users, this plugin provides a straightforward solution for managing blocked emails directly from the WordPress admin dashboard.
 
 **Key Features**:
