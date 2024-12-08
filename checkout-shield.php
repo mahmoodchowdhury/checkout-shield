@@ -1,6 +1,6 @@
 <?php
 /*
- * Plugin Name: Checkout Shield
+ * Plugin Name: Checkout Shield: Block orders with spam email addresses.
  * Plugin URI: https://github.com/mahmoodchowdhury/checkout-shield
  * Description: A lightweight eCommerce plugin that blocks specific email addresses during checkout. Admins can manage blocked emails via the WordPress admin panel.
  * Version: 1.0.0
